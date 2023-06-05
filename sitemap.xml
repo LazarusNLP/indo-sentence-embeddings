@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/applications/text_classification/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/evaluation/evaluation/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/training/mMARCO/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/unsupervised_learning/ConGen/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lazarusnlp.github.io/indo-sentence-embeddings/unsupervised_learning/SimCSE/</loc>
+         <lastmod>2023-06-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
